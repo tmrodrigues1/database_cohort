@@ -27,6 +27,7 @@ pip install datetime
 python cohort_database.py
 ```
 
-#### 4) Analisar
-Agora basta utilizar essa base na ferramenta de dados que preferir
+#### 4) Resultado
+Segue o exemplo do resultado:
+![cohort_example](https://github.com/user-attachments/assets/281a98ad-e4cd-48e5-ade4-a77d71d4b9ae)
 <br>
