@@ -20,7 +20,7 @@ pip install datetime
 - ```vendedores```: coloque quantos vendedores preferir alternando-os com vírgula
 - ```churn_probability```: define o percentual de churn de toda a base
 - ```plano```: dicionário com os nomes e valores dos planos, altere como preferir
-- ```plano```: dicionário com os nomes e valores dos planos, altere como preferir
+- ```caminho```: defina o caminho onde a base .csv será salva
 
 #### 3) Executar o script
 ```python
